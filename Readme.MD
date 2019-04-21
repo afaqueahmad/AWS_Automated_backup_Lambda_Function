@@ -13,4 +13,4 @@ This describes how this solution works:
 
 Below Diagram describes the strategy for backup based on backup tags:
 
-![iam](https://github.com/afaqueahmad/AWS_Automated_backup_Lambda_Function/blob/master/bkp2.png)
+![iam](https://github.com/afaqueahmad/AWS_Automated_backup_Lambda_Function/blob/master/bkp2.PNG)
